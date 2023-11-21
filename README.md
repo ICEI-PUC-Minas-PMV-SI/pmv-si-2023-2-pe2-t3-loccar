@@ -1,16 +1,17 @@
-# Nome do projeto
+# Loccar veículos
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+  A plataforma de locação de veículos foi desenvolvida na disciplina de Trabalho Interdisciplinar II: Aplicações para Processos de Negócio do curso de Sistemas de Informação da PUC – MG. Este trabalho visa apresentar uma solução para locadoras de veículos, que necessitem de um auxílio no gerenciamento de suas atividades, de forma rápida e prática. A aplicação possibilita esse auxílio, através de uma interface amigável, retornando ao usuário uma resposta rápida às suas solicitações.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Lucas de Oliveira Fonseca
+* Gilberto Modesto
+* Felipe Paiva dos Santos
+* Natanael Igor Torres de Sales
+* Victor Antoniel Borges da Cruz
+* Wellington Fernandes de Souza Vaz
 
 ## Professor
 
-* Nome completo do professor
+* juliana Amaral Baroni de Carvalho
