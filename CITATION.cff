@@ -1,18 +1,18 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: de Oliveira Fonseca
+    given-names: Lucas 
+  - family-names: Modesto
+    given-names: Gilberto
+  - family-names: Paiva dos Santos
+    given-names: Felipe
+  - family-names: Igor Torres de Sales
+    given-names: Natanael
+  - family-names: Antoniel Borges da Cruz
+    given-names: Victor
+  - family-names: Fernandes de Souza Vaz
+    given-names: Wellington
     
   - name-suffix: Professor
     affiliation: PUC Minas
