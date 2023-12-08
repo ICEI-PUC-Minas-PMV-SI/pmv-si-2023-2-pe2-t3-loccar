@@ -14,4 +14,4 @@
 
                                   ## Professor
 
-                      * juliana Amaral Baroni de Carvalho
+                      * Juliana Amaral Baroni de Carvalho
